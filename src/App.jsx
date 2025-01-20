@@ -6,6 +6,7 @@ import Departments from './pages/Departments';
 import AttendanceStats from './pages/Statistics';
 import Login from './pages/Signin';
 
+
 function App() {
   // Initialize `isLoggedIn` state based on localStorage
   const [isLoggedIn, setIsLoggedIn] = useState(() => {
