@@ -4,7 +4,7 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Departments from './pages/Departments';
 import AttendanceStats from './pages/Statistics';
-import Login from '../src/pages/Signin';
+import Login from '../src/pages/SignIn';
 
 function App() {
   // Initialize `isLoggedIn` state based on localStorage
